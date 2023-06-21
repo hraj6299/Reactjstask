@@ -1,0 +1,11 @@
+
+.wrapbox{
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.1);
+    width: 325px;
+    height:525px;
+    margin-top: 75px ;
+    margin-left: 550px;
+    border-radius: 20px;
+    /* background-color:#2B3A55; */
+    background-color: white;
+}

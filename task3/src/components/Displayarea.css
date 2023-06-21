@@ -1,0 +1,20 @@
+
+.displayarea{
+    border: 2px brown solid;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    margin: auto;
+    color: black;
+    height: 125px;
+    border-radius: 10px;
+    top: 10px;
+    /* font-family: 'Chivo Mono', monospace; */
+    font-family: 'Passion One', cursive;
+    font-size: 30px;
+}
+
+.input{
+    height: 20px;
+    font-family: 'Passion One', cursive;
+}

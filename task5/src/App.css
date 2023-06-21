@@ -1,0 +1,9 @@
+.box{
+  text-align: center;
+  border: 2px solid salmon;
+  width: 500px;
+  margin: auto;
+  margin-top: 50px;
+  padding: 50px;
+  border-radius: 10px;
+}

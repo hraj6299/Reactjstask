@@ -1,0 +1,13 @@
+
+.buttonbox{
+    width: 300px;
+    height: 300px;
+    border: none;
+    position: relative;
+    top: 30px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}

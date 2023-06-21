@@ -1,0 +1,31 @@
+.bodydes{
+  background-color: black;
+}
+
+.heading{
+  color: aliceblue;
+}
+
+.content{
+  color: beige;
+  width: 500px;
+  height: 140px;
+}
+
+.project
+{
+  color: cornsilk;
+  
+}
+
+.projectbox{
+
+  height: 125px;
+  width: 500px;
+  border: 3px solid white;
+  
+}
+
+.a{
+  color: aquamarine;
+}

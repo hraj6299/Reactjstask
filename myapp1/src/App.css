@@ -1,0 +1,25 @@
+
+.header{
+    text-align: center;
+    color: darkolivegreen;
+    text-decoration: underline;
+}
+
+.formbox{
+    height: 100px;
+    width: 300px;
+    border: 1px solid black;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 610px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(151, 142, 175);
+    
+}
+
+
+.display{
+    margin-top: 400px;
+    text-align: center;
+}
